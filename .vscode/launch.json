@@ -1,0 +1,84 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Wipro-Swift-Assignments}",
+            "name": "Debug Milestone1A",
+            "target": "Milestone1A",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Milestone1A"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Wipro-Swift-Assignments}",
+            "name": "Release Milestone1A",
+            "target": "Milestone1A",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Milestone1A"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Wipro-Swift-Assignments}",
+            "name": "Debug Milestone1B",
+            "target": "Milestone1B",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Milestone1B"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Wipro-Swift-Assignments}",
+            "name": "Release Milestone1B",
+            "target": "Milestone1B",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Milestone1B"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Wipro-Swift-Assignments}",
+            "name": "Debug Milestone1C",
+            "target": "Milestone1C",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Milestone1C"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Wipro-Swift-Assignments}",
+            "name": "Release Milestone1C",
+            "target": "Milestone1C",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Milestone1C"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Wipro-Swift-Assignments}",
+            "name": "Debug Milestone1D",
+            "target": "Milestone1D",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug Milestone1D"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Wipro-Swift-Assignments}",
+            "name": "Release Milestone1D",
+            "target": "Milestone1D",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release Milestone1D"
+        }
+    ]
+}
